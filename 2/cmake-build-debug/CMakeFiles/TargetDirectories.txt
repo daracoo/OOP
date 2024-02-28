@@ -1,0 +1,5 @@
+C:/Users/Darko/Desktop/OOP/1/cmake-build-debug/CMakeFiles/prva.dir
+C:/Users/Darko/Desktop/OOP/1/cmake-build-debug/CMakeFiles/vtora.dir
+C:/Users/Darko/Desktop/OOP/1/cmake-build-debug/CMakeFiles/treta.dir
+C:/Users/Darko/Desktop/OOP/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darko/Desktop/OOP/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
