@@ -1,0 +1,3 @@
+C:/Users/Darko/Desktop/OOP/10/cmake-build-debug/CMakeFiles/10.dir
+C:/Users/Darko/Desktop/OOP/10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darko/Desktop/OOP/10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
